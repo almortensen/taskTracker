@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(50,50,50);
+}
+
+
+#loginScreen form .textbox{
+    position: relative;
+    left:25%;
+    width:45%;
+    height:22%;
+    background-color: rgb(24, 0, 24);
+    color: white;
+}
+#submitbutton{
+    position: relative;
+    left: 65%;
+}
